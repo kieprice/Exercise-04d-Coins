@@ -1,40 +1,44 @@
-# Project 04-2D Platformer
-Chill 2D platformer that follows the story of a humble mushroom traversing different terrains of it's homeland.
-03/18/2026
+# Project Name
+MSCH-C220 Final Project
+
+## Theme
+One button: A story about an alchoholic that caused a wreck and killed his sister, the story goes through his subconcious mind that tries to make him see the truth and end her suffering in which that would be taking her off life support.
+
+## Game Play
+Objective: click through the dialogue and wonder through different environments
+WASD to move, left click to go through dialogue
+
+## What did you 
+I struggled the most with implementing my assets into the game because I couldn't just click and drag, I had to go through many different steps to get things in places I wanted them to be.
 
 ## Implementation
+Parallax background
+Moveable player
+player animation
+sprite animation
+interactable object
+UI dialogue
+typewriter effect on dialogue
+Menu screen
+Ending 1 screen
+Ending 2 screen
+6 Level scenes
+sound and music for each scene
+Art for player, sprites, tilemap and backgrounds
 
-- Multiple gameplay levels (3)
-- Menu screen with simple UI and End screen
-- Background music for every scene
-- All sprite, animation, tile map, and background art self-made
-- Three enemies with different abilities
-- A player that has an idle, walk, and jump animation and is able to wall jump
-- Coins that are collected by the player
-- Gameplay starts easy and progressivly gets difficult with level variety
+## Special Focus
 
-- No (script) syntax errors
-- No other runtime errors
-- Includes a user-controlled player
-- The player can jump
-- Includes at least one enemy
-- Includes more than one enemy
-- The camera follows the player
-- Terrain with which to interact
+My focus is the art and sound design for the game. Though the sounds aren't my own, I wanted to create a game that elicits emotion to the player, either positive or negative.
+Effort: 5-5
 
 ## References
+Dialogue: BMo https://www.youtube.com/watch?v=8oTYabhj248&t=171s
+Parallax background scripts: Raycastly https://www.youtube.com/watch?v=MEy-kIGE-lI&t=54s
+Sound: https://pixabay.com/
+Drawing platform: https://www.piskelapp.com/
 
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt\_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Backgrounds created in Procreate installed on IPad by Kiera Price
-
-Pixel Platformer tiles and sprites created by Kiera Price
-https://www.piskelapp.com/
-
-SoundTrap samples
-https://www.soundtrap.com/home/creator/projects?msockid=00224603c42369613ba45018c54c681e
+## Future Development
+Smoother backgrounds, more levels, detailed dialogue.
 
 ## Created by
 
